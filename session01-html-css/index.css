@@ -1,0 +1,13 @@
+#split {
+  display: flex;
+}
+#left {
+  flex-grow: 1;
+  text-align: center;
+  background-color: green;
+}
+#right {
+  flex-grow: 1;
+  text-align: center;
+  background-color: aqua;
+}
