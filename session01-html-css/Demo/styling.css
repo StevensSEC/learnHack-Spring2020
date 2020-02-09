@@ -1,0 +1,19 @@
+p {
+    color: red;
+    text-align: center;
+}
+
+#right {
+    text-align: right;
+}
+
+.blue {
+    color: rgba(0, 17, 255, 0.74);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#body {
+    background-color: aquamarine;
+    margin-left: 50px;
+    margin-right: 50px;
+}
